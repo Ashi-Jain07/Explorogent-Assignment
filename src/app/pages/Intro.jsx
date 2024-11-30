@@ -58,7 +58,7 @@ function Intro() {
         {/* Advantage Section */}
         <div className="mt-16 flex justify-center mb-5 w-full">
           <div>
-            <Image src="/shoppingrecImage8.png" alt="" className="w-2/3" />
+            <Image src="/shoppingrecImage8.png" alt="" className="w-full" />
             <h2 className="mt-16 text-3xl font-semibold">Advantages of Having E-commerce Delivery App</h2>
 
             <div className="sm:flex place-items-center mt-16 m-5">
