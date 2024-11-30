@@ -22,7 +22,7 @@ function Intro() {
         <div className="grid grid-cols-1 sm:grid-cols-2 mlg:grid-cols-3 xl:grid-cols-4 place-items-center text-center gap-5 pt-8" >
 
           <div className="m-2">
-            <Image src="/management.png" alt="" width="40px" height="40px" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white" />
+            <Image src="/management.png" alt="" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white w-10 h-10" />
             <div className="border border-black shadow-black shadow-md w-72 h-52 p-2">
               <h2 className="mt-2 font-bold text-xl">Management Tech</h2>
               <p className="mt-2 text-xl">Management of catalog, discounts, payments, ratings, reviews, and more from one place.</p>
@@ -30,7 +30,7 @@ function Intro() {
           </div>
 
           <div className="m-2">
-            <Image src="/deliveryIcon.png" alt="" width="40px" height="40px" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white" />
+            <Image src="/deliveryIcon.png" alt="" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white w-10 h-10" />
             <div className="border border-black shadow-black shadow-md w-72 h-52 p-2">
               <h2 className="mt-2 font-bold text-xl">Delivery Tech</h2>
               <p className="mt-2 text-xl">Enable quick and smooth contact less product delivery with route suggestionws and management.</p>
@@ -38,7 +38,7 @@ function Intro() {
           </div>
 
           <div className="m-2">
-            <Image src="/mobile.png" alt="" width="40px" height="40px" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white" />
+            <Image src="/mobile.png" alt="" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white w-10 h-10" />
             <div className="border border-black shadow-black shadow-md w-72 h-52 p-2">
               <h2 className="mt-2 font-bold text-xl">Mobile App Tech</h2>
               <p className="mt-2 text-xl">Invest in a robust E-commerce app and dazzle your clients with an eye-catching and user friendly store.</p>
@@ -46,7 +46,7 @@ function Intro() {
           </div>
 
           <div className="m-2">
-            <Image src="/website.png" alt="" width="40px" height="40px" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white" />
+            <Image src="/website.png" alt="" className="border border-black rounded-full p-2 relative top-4 left-[125px] bg-white w-10 h-10" />
             <div className="border border-black shadow-black shadow-md w-72 h-52 p-2">
               <h2 className="mt-2 font-bold text-xl">Website Tech</h2>
               <p className="mt-2 text-xl">User-friendly feature-rich website is an excellent medium to showcase your online presence.</p>
@@ -58,7 +58,7 @@ function Intro() {
         {/* Advantage Section */}
         <div className="mt-16 flex justify-center mb-5 w-full">
           <div>
-            <Image src="/shoppingrecImage8.png" alt="" />
+            <Image src="/shoppingrecImage8.png" alt="" className="w-2/3" />
             <h2 className="mt-16 text-3xl font-semibold">Advantages of Having E-commerce Delivery App</h2>
 
             <div className="sm:flex place-items-center mt-16 m-5">
