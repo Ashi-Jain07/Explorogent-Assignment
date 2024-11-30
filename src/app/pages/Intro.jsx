@@ -7,8 +7,8 @@ function Intro() {
       {/* Home Section */}
       <div className="sm:flex mt-10">
         <div className="sm:w-1/2 text-center mt-10 m-2">
-          <h1 className="font-bold text-2xl">Empower your E-commerce Delivery Buisness with Stackkaroa's Complete Technology Solutions</h1>
-          <p className="mt-4 text-xl"><i>Achieve Optional Excellence, Drive, Sales, & Enhance Customer Reach With Stackkaroo's Integrated Solution for your E-commerce Delivery Buisness.</i></p>
+          <h1 className="font-bold text-2xl">Empower your E-commerce Delivery Buisness with Stackkaroa&apos;s Complete Technology Solutions</h1>
+          <p className="mt-4 text-xl"><i>Achieve Optional Excellence, Drive, Sales, & Enhance Customer Reach With Stackkaroo&apos;s Integrated Solution for your E-commerce Delivery Buisness.</i></p>
           <button className="mt-5 border border-black rounded-md text-xl p-2 bg-blue-100">Book Demo Now</button>
         </div>
         <div className="sm:w-1/2 mt-5 sm:m-2">

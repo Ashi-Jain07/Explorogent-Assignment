@@ -54,7 +54,7 @@ function FAQs() {
                             </button>
                         </div>
                         {!showThree ? <></> :
-                            <p>Yes, Stackkaroo.com makes special ecommerce delivery app services for buisnesses with different needs. We know that every buisness has special needs. We work with clients to make the app fit their needs, making sure it's just right for their ecommerce delivery buisness needs.</p>
+                            <p>Yes, Stackkaroo.com makes special ecommerce delivery app services for buisnesses with different needs. We know that every buisness has special needs. We work with clients to make the app fit their needs, making sure it&apos;s just right for their ecommerce delivery buisness needs.</p>
                         }
                     </div>
 
@@ -67,7 +67,7 @@ function FAQs() {
                             </button>
                         </div>
                         {!showFour ? <></> :
-                            <p>Stackkaroo's E-commerce delivery app development time may vary because it depends on how hard the project is and what the buisness needs. Usually, the process of creating and sending on app can take 4 to 6 months. This is because things like designing the app, making it work, checking it and putting it out for use are all considered. And if you don't want to wait that long. Within 14 working days, you can expect the delivery of Stackkaroo's Readymade solution.</p>
+                            <p>Stackkaroo&apos;s E-commerce delivery app development time may vary because it depends on how hard the project is and what the buisness needs. Usually, the process of creating and sending on app can take 4 to 6 months. This is because things like designing the app, making it work, checking it and putting it out for use are all considered. And if you don&apos;t want to wait that long. Within 14 working days, you can expect the delivery of Stackkaroo&apos;s Readymade solution.</p>
                         }
                     </div>
 
