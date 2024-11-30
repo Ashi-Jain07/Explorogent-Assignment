@@ -1,5 +1,6 @@
 "use client"
 import { useState } from "react";
+import Image from "next/image";
 
 function FAQs() {
 
@@ -22,8 +23,8 @@ function FAQs() {
                         <div className="flex">
                             <p className="text-blue-800 font-bold m-1">What services can you except from Stackkaroo.com as an E-commerce delivery app development company?</p>
                             <button className="ml-2" onClick={() => setShowOne(!showOne)}>{!showOne ?
-                                <img src="/down.png" width="40px" height="40px" /> :
-                                <img src="/up.png" width="25px" height="25px" />}
+                                <Image src="/down.png" alt="" width="40px" height="40px" /> :
+                                <Image src="/up.png" alt="" width="25px" height="25px" />}
                             </button>
                         </div>
                         {!showOne ? <></> :
@@ -35,8 +36,8 @@ function FAQs() {
                         <div className="flex">
                             <p className="text-blue-800 font-bold m-1">How does Stackkaroo.com make sure customer data is secure and private in their E-commerce delivery app development for online shopping?</p>
                             <button className="ml-2" onClick={() => setShowTwo(!showTwo)}>{!showTwo ?
-                                <img src="/down.png" width="40px" height="40px" /> :
-                                <img src="/up.png" width="25px" height="25px" />}
+                                <Image src="/down.png" alt="" width="40px" height="40px" /> :
+                                <Image src="/up.png" alt="" width="25px" height="25px" />}
                             </button>
                         </div>
                         {!showTwo ? <></> :
@@ -48,8 +49,8 @@ function FAQs() {
                         <div className="flex">
                             <p className="text-blue-800 font-bold m-1">Can Stackkaroo.com tailor their E-commerce delivery app development services to fit specific buisness needs?</p>
                             <button className="ml-2" onClick={() => setShowThree(!showThree)}>{!showThree ?
-                                <img src="/down.png" width="40px" height="40px" /> :
-                                <img src="/up.png" width="25px" height="25px" />}
+                                <Image src="/down.png" alt="" width="40px" height="40px" /> :
+                                <Image src="/up.png" alt="" width="25px" height="25px" />}
                             </button>
                         </div>
                         {!showThree ? <></> :
@@ -61,8 +62,8 @@ function FAQs() {
                         <div className="flex">
                             <p className="text-blue-800 font-bold m-1">How long does it usually take to make an E-commerce delivery app with Stackkaroo.com?</p>
                             <button className="ml-2" onClick={() => setShowFour(!showFour)}>{!showFour ?
-                                <img src="/down.png" width="40px" height="40px" /> :
-                                <img src="/up.png" width="25px" height="25px" />}
+                                <Image src="/down.png" alt="" width="40px" height="40px" /> :
+                                <Image src="/up.png" alt="" width="25px" height="25px" />}
                             </button>
                         </div>
                         {!showFour ? <></> :
@@ -74,8 +75,8 @@ function FAQs() {
                         <div className="flex">
                             <p className="text-blue-800 font-bold m-1">Does Stackkaroo.com provides continuos support and maintenance for the E-commerce delivery appa they create?</p>
                             <button className="ml-2" onClick={() => setShowFive(!showFive)}>{!showFive ?
-                                <img src="/down.png" width="40px" height="40px" /> :
-                                <img src="/up.png" width="25px" height="25px" />}
+                                <Image src="/down.png" alt="" width="40px" height="40px" /> :
+                                <Image src="/up.png" alt="" width="25px" height="25px" />}
                             </button>
                         </div>
                         {!showFive ? <></> :
