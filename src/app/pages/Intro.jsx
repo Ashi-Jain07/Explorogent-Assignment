@@ -82,7 +82,7 @@ function Intro() {
         {/* Book Demo Section */}
         <div className="flex justify-center p-8">
           <div className="mlg:w-4/6 bg-blue-700 sm:flex justify-center place-items-center">
-            <Image src="/shoppingrecImage6.png" alt="" className="mt-5 p-5" />
+            <Image src="/shoppingrecImage6.png" alt="" className="mt-5 p-5 w-full" />
             <div className="sm:mt-8 sm:w-2/5 ml-8 text-xl text-white p-5">
               <p>Find out how stackkaroo can help you expand your E-commerce delivery buisness.</p>
               <p>Book your personalized demo today!</p>

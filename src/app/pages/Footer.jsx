@@ -8,7 +8,7 @@ function Footer() {
                 <div className="mt-20 lsm:flex lsm:justify-evenly place-items-center p-10">
 
                     <div className="pt-8 items-center">
-                        <Image src="/customer-support.png" alt="" />
+                        <Image src="/customer-support.png" alt="" className="w-full h-full" />
                     </div>
 
                     <div className="lsm:text-end text-center pt-5">
