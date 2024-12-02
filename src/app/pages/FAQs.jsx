@@ -75,8 +75,8 @@ function FAQs() {
                         <div className="flex">
                             <p className="text-blue-800 font-bold m-1">Does Stackkaroo.com provides continuos support and maintenance for the E-commerce delivery appa they create?</p>
                             <button className="ml-2" onClick={() => setShowFive(!showFive)}>{!showFive ?
-                                <Image src="/down.png" alt="" className="w-10 h-8" /> :
-                                <Image src="/up.png" alt="" className="w-5 h-5" />}
+                                <>⮟</> :
+                                <>⮝</>}
                             </button>
                         </div>
                         {!showFive ? <></> :
