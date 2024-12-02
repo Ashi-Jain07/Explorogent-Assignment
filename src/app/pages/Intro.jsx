@@ -11,8 +11,8 @@ function Intro() {
           <p className="mt-4 text-xl"><i>Achieve Optional Excellence, Drive, Sales, & Enhance Customer Reach With Stackkaroo&apos;s Integrated Solution for your E-commerce Delivery Buisness.</i></p>
           <button className="mt-5 border border-black rounded-md text-xl p-2 bg-blue-100">Book Demo Now</button>
         </div>
-        <div className="sm:w-1/2 mt-5 sm:m-2">
-          <Image src="/main.png" className="h-full" alt="" />
+        <div className="sm:w-1/2 w-full mt-5 sm:m-2">
+          <Image src="/main.png" className="h-full w-full" alt="" />
         </div>
       </div>
 
